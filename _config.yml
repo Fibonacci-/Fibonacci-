@@ -14,8 +14,8 @@ description: 'Jekyll site for Fibonacci-
 '
 baseurl: 
 url: 
-twitter_username:
-github_username:
+twitter_username: 
+github_username: 
 markdown: kramdown
 theme: minima
 gems:
